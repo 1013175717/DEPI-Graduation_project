@@ -1,2 +1,2 @@
 # DEPI-Graduation_project
-This is our vulnerability report for OWASP Juice Shop for Digital Egyptian Pioneers Initiative.
+This repository contains our comprehensive vulnerability report on the OWASP Juice Shop application, prepared as part of the Digital Egyptian Pioneers Initiative. It includes detailed analysis, findings, and recommendations to enhance the application's security.
